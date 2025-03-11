@@ -1,0 +1,16 @@
+Các chỗ cần config lại:
+Trong file tracker_http:
+	TRACKER_HOST = 'localhost' thành ip của tracker
+Trong file config:
+	"TRACKER_ADDR": ('localhost', 12345), thành ip của tracker
+        "TRACKER_ADDR_PROXY": ('localhost', 12367), thành ip của tracker
+        "TRACKER_ADDR_BACKUP": ('localhost', 12389), thành ip của tracker
+Trong file node_tcp:
+	PROXY_ADDRESS = "http://localhost:12367/proxy" -> thành ip của tracker
+	
+	def run_flask(self): #cần chỉnh
+        	"""Chạy Flask server"""
+        	self.app.run(host="127.0.0.1", port=self.listen_tracker_port, debug=False, use_reloader=False)
+	->thành ip của node
+	sock.bind(('localhost', port)) 
+	->thành ip của node

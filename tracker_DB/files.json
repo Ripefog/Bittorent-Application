@@ -1,0 +1,12 @@
+{
+    "6682bdb5fdbf92560899ca5571dcd07c6664917e210c060e3617b5b89e7f3d25": [
+        "{\"node_id\": 1, \"addr\": [\"127.0.0.1\", 27892], \"filename\": \"file_A.txt\", \"filesize\": 508971}",
+        "{\"node_id\": 3, \"addr\": [\"127.0.0.1\", 54788], \"filename\": \"file_A.txt\", \"filesize\": 508971}",
+        "{\"node_id\": 2, \"addr\": [\"127.0.0.1\", 23587], \"filename\": \"file_A.txt\", \"filesize\": 508971}"
+    ],
+    "73f385b22167ca3b9bfd71ea5168ef0ed83a71995056227603fd3b6730ec2b7b": [
+        "{\"node_id\": 1, \"addr\": [\"127.0.0.1\", 27892], \"filename\": \"file_B.txt\", \"filesize\": 197367}",
+        "{\"node_id\": 3, \"addr\": [\"127.0.0.1\", 54788], \"filename\": \"file_B.txt\", \"filesize\": 197367}",
+        "{\"node_id\": 2, \"addr\": [\"127.0.0.1\", 23587], \"filename\": \"file_B.txt\", \"filesize\": 197367}"
+    ]
+}

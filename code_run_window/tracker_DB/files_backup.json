@@ -1,0 +1,16 @@
+{
+    "6682bdb5fdbf92560899ca5571dcd07c6664917e210c060e3617b5b89e7f3d25": [
+        "{\"node_id\": 5, \"addr\": [\"127.0.0.1\", 55438], \"filename\": \"file_A.txt\", \"filesize\": 508971}",
+        "{\"node_id\": 2, \"addr\": [\"127.0.0.1\", 38167], \"filename\": \"file_A.txt\", \"filesize\": 508971}",
+        "{\"node_id\": 1, \"addr\": [\"127.0.0.1\", 19888], \"filename\": \"file_A.txt\", \"filesize\": 508971}"
+    ],
+    "a94706815bddc674c8fb52a09c90fa2a2dd9a156963f1161b59f60bf46628d61": [
+        "{\"node_id\": 1, \"addr\": [\"127.0.0.1\", 8415], \"filename\": \"bittorrent.jpg\", \"filesize\": 68675}",
+        "{\"node_id\": 2, \"addr\": [\"127.0.0.1\", 24192], \"filename\": \"bittorrent.jpg\", \"filesize\": 68675}"
+    ],
+    "d8ebe4129e4b78e32b10e7cb7000b3d86449bff71b2da4923ae9b130bd583dfe": [
+        "{\"node_id\": 1, \"addr\": [\"127.0.0.1\", 19888], \"filename\": \"file_C.txt\", \"filesize\": 38157}",
+        "{\"node_id\": 5, \"addr\": [\"127.0.0.1\", 55438], \"filename\": \"file_C.txt\", \"filesize\": 38157}",
+        "{\"node_id\": 2, \"addr\": [\"127.0.0.1\", 38167], \"filename\": \"file_C.txt\", \"filesize\": 38157}"
+    ]
+}

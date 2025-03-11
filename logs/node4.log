@@ -1,0 +1,14 @@
+[17:29:50]  ***************** Node program started just right now! *****************
+[17:29:52]  Successfully entered the torrent.
+[17:29:52]  I informed the tracker that I'm still alive in the torrent!
+[17:29:57]  You just started to download file_A.txt. Let's search it in torrent!
+[17:29:59]  You are going to download file_A.txt from Node(s) [1, 3]
+[17:29:59]  The file file_A.txt which you are about to download, has size of 508971 bytes
+[17:29:59]  I sent a request for a chunk of file_A.txt to node 1
+[17:29:59]  I sent a request for a chunk of file_A.txt to node 3
+[17:30:10]  I informed the tracker that I'm still alive in the torrent!
+[17:30:17]  All the chunks of file_A.txt has downloaded from neighboring peers. But they must be reassembled!
+[17:30:17]  All the pieces of the file_A.txt is now sorted and ready to be reassembled.
+[17:30:17]  file_A.txt has successfully downloaded and saved in my files directory.
+[19:34:26]  ***************** Node program started just right now! *****************
+[11:24:10]  ***************** Node program started just right now! *****************
